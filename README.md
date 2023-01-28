@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinnymadasu
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning new things
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me...
 vinnymadasu@gmail.com
